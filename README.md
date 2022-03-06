@@ -1,3 +1,6 @@
+In order for this application to work you need to provide  an apikey from
+https://geo.ipify.org/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
